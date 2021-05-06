@@ -11,113 +11,64 @@
 ## ✨<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">✨ 
 
 **Distributions：**
-<a href="https://www.debian.org">
-<code>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" width="24" />
-</code>
-</a>
+<a href="https://www.debian.org"><code><img src=".img/debian.svg" width="40" /></code></a>
 
 **Platforms：**
-<a href="https://www.kernel.org">
-<code>
-<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/linux.svg" width="24" />
-</code>
-</a>
-<a href="https://www.gnu.org/software">
-<code>
-<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/gnu.svg" width="24" />
-</code>
-</a>
-<a href="https://www.raspberrypi.org">
-<code>
-<img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" width="24" />
-</code>
-</a>
-<a href="https://www.microsoft.com/en-us/software-download/windows10">
-<code>
-<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/Windows.svg" width="24" />
-</code>
-</a>
+<a href="https://www.kernel.org"><code><img src=".img/linux.svg" width="40" /></code></a>
+<a href="https://www.gnu.org/software"><code><img src=".img/gnu.svg" width="40"/></code></a>
+<a href="https://www.raspberrypi.org"><code><img src=".img/rpi.svg" width="40" /></code></a>
+<a href="https://www.microsoft.com/en-us/software-download/windows10"><code><img src=".img/windows.svg" width="40" /></code></a>
 
 **Languages：**
-<a href="https://en.wikipedia.org/wiki/The_C_Programming_Language">
-<code>
-<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/c%20(3).svg" width="24" />
-</code>
-</a>
-<code>
-<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/icons8-c++.svg" width="24" />
-</code>
-<a href="https://www.python.org">
-<code>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="24" />
-</code>
-</a>
-<a href="https://www.r-project.org">
-<code>
-<img src="https://www.r-project.org/logo/Rlogo.svg" width="24" />
-</code>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<code>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" />
-</code>
-</a>
+<a href="https://www.freecodecamp.org/news/the-c-beginners-handbook/"><code><img src=".img/c.svg" width="40" /></code></a>
+<a href="https://www.cplusplus.com/"><code><img src=".img/c++.svg" width="40" height="40"/></code></a>
+<a href="https://www.python.org"><code><img src=".img/python.svg" width="40" /></code></a>
+<a href="https://www.r-project.org"><code><img src=".img/r.svg" width="40" /></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><code><img src=".img/javascript.svg" width="40" /></code></a>
 
 **Frontend Development :**
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="24" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="24" /></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" width="24" /></code>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><code><img src=".img/html.svg" width="40" /></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"><code><img src=".img/css.svg" width="40" /></code></a>
+<a href="https://www.gtk.org/"><code><img src=".img/gtk.svg" width="40" /></code></a>
 
 **Backend Development :**
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" /></code>
+<a href="https://nodejs.org/en/"><code><img src=".img/node.svg" width="40" /></code></a>
+<a href="https://www.nginx.com/"><code><img src=".img/nginx.svg" width="40" /></code></a>
 
 **AI/ML :**
-<code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="24" /></code>
+<a href="https://opencv.org/"><code><img src=".img/opencv.svg" width="40" /></code></a>
 
 **Database :**
-<code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="24" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="24" /></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="24" /></code>
+<a href="https://www.sqlite.org/index.html"><code><img src=".img/sqlite.svg" width="40" /></code></a>
+<a href="https://www.mysql.com/"><code><img src=".img/mysql.svg" width="40" /></code></a>
+<a href="https://www.postgresql.org/"><code><img src=".img/postgresql.svg" width="40" /></code></a>
 
 **Devops :**
-<code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="24" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="24" /></code>
+<a href="https://www.gnu.org/software/bash/"><code><img src=".img/bash.svg" width="40" /></code></a>
+<a href="https://www.docker.com/"><code><img src=".img/docker.svg" width="40" /></code></a>
 
 **Framework :**
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="24" /></code>
-<code><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="24" /></code>
+<a href="https://www.djangoproject.com/"><code><img src=".img/django.svg" width="40" /></code></a>
+<a href="https://flask.palletsprojects.com/en/1.1.x/"><code><img src=".img/flask.svg" width="40" /></code></a>
 
 **Testing :**
-<code><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="24" /></code>
+<a href="https://www.selenium.dev/"><code><img src=".img/selenium.svg" width="40" /></code></a>
 
 **Hardware :**
-<a href="https://www.arduino.cc/">
-<code>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="24"/>
-</code>
-</a>
+<a href="https://www.arduino.cc/"><code><img src=".img/arduino.svg" width="40"/></code></a>
+<a href="https://www.kicad.org/"><code><img src=".img/kicad.svg" width="40"/></code></a>
+
+**Design :**
+<a href="https://www.blender.org/"><code><img src=".img/blender.svg" width="40" /></code></a>
+<a href="https://kdenlive.org/en/"><code><img src=".img/kdenlive.svg" width="40" /></code></a>
+<a href="https://www.gimp.org/"><code><img src=".img/gimp.svg" width="40" /></code></a>
+<a href="https://inkscape.org/"><code><img src=".img/inkscape.svg" width="40" /></code></a>
 
 **Tools：**
-<a href="https://git-scm.com">
-<code>
-<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/git.svg" width="24" />
-</code>
-</a>
-<a href="https://docs.gitlab.com/runner">
-<code>
-<img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/250833/runner_logo.png" width="24" />
-</code>
-</a>
-<a href="https://www.docker.com">
-<code>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="24" />
-</code>
-</a>
-<code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="24" /></code>
-<code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="24" /></code>
-<code><img src="" width="24" /></code>
+<a href="https://git-scm.com"><code><img src=".img/git.svg" width="40" /></code></a>
+<a href="https://docs.gitlab.com/runner"><code><img src=".img/gitlab.svg" width="40" /></code></a>
+<a href="https://www.postman.com/"><code><img src=".img/postman.svg" width="40" /></code></a>
+<a href="https://www.vim.org/"><code><img src=".img/vim.svg" width="40" /></code></a>
 
 ## ✨Contacto📫✨
 
@@ -137,4 +88,3 @@
 * [Reddit](https://www.reddit.com/user/lilberick)
 * [TikTok](https://www.tiktok.com/@lilberick)
 * [LinkedIn](https://www.linkedin.com/in/lilberick-054046207/)
-
