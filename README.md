@@ -20,9 +20,9 @@
 <!--<a href="https://www.microsoft.com/en-us/software-download/windows10"><code><img src=".img/windows.svg" width="40" /></code></a>-->
 
 **Languages：**
-<!--<a href="https://www.freecodecamp.org/news/the-c-beginners-handbook/"><code><img src=".img/c.svg" width="40" /></code></a>-->
 <a href="https://www.cplusplus.com/"><code><img src=".img/c++.svg" width="40" height="40"/></code></a>
 <a href="https://www.python.org"><code><img src=".img/python.svg" width="40" /></code></a>
+<!--<a href="https://www.freecodecamp.org/news/the-c-beginners-handbook/"><code><img src=".img/c.svg" width="40" /></code></a>-->
 <!--<a href="https://www.r-project.org"><code><img src=".img/r.svg" width="40" /></code></a>-->
 <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><code><img src=".img/javascript.svg" width="40" /></code></a>-->
 
