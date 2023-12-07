@@ -39,8 +39,8 @@
 <a href="https://opencv.org/"><code><img src=".img/opencv.svg" width="40" /></code></a>
 
 **Database :**
-<!--<a href="https://www.sqlite.org/index.html"><code><img src=".img/sqlite.svg" width="40" /></code></a>-->
 <a href="https://www.mysql.com/"><code><img src=".img/mysql.svg" width="40" /></code></a>
+<!--<a href="https://www.sqlite.org/index.html"><code><img src=".img/sqlite.svg" width="40" /></code></a>-->
 <!--<a href="https://www.postgresql.org/"><code><img src=".img/postgresql.svg" width="40" /></code></a>-->
 
 **Devops :**
@@ -59,16 +59,16 @@
 <a href="https://www.kicad.org/"><code><img src=".img/kicad.svg" width="40"/></code></a>
 
 **Design :**
-<!--<a href="https://www.blender.org/"><code><img src=".img/blender.svg" width="40" /></code></a>-->
 <a href="https://kdenlive.org/en/"><code><img src=".img/kdenlive.svg" width="40" /></code></a>
 <a href="https://www.gimp.org/"><code><img src=".img/gimp.svg" width="40" /></code></a>
 <a href="https://inkscape.org/"><code><img src=".img/inkscape.svg" width="40" /></code></a>
+<!--<a href="https://www.blender.org/"><code><img src=".img/blender.svg" width="40" /></code></a>-->
 
 **Tools：**
 <a href="https://git-scm.com"><code><img src=".img/git.svg" width="40" /></code></a>
 <a href="https://docs.gitlab.com/runner"><code><img src=".img/gitlab.svg" width="40" /></code></a>
-<!--<a href="https://www.postman.com/"><code><img src=".img/postman.svg" width="40" /></code></a>-->
 <a href="https://www.vim.org/"><code><img src=".img/vim.svg" width="40" /></code></a>
+<!--<a href="https://www.postman.com/"><code><img src=".img/postman.svg" width="40" /></code></a>-->
 
 ## ✨Contacto📫✨
 
