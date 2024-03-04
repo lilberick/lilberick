@@ -57,6 +57,8 @@
 **Hardware :**
 <a href="https://www.arduino.cc/"><code><img src=".img/arduino.svg" width="40"/></code></a>
 <a href="https://www.kicad.org/"><code><img src=".img/kicad.svg" width="40"/></code></a>
+<a href="https://fritzing.org/"><code><img src=".img/fritzing.svg" width="40"/></code></a>
+<a href="https://www.raspberrypi.com/products/raspberry-pi-pico/"><code><img src=".img/rpipicow.svg" width="40"/></code></a>
 
 **Design :**
 <a href="https://kdenlive.org/en/"><code><img src=".img/kdenlive.svg" width="40" /></code></a>
@@ -68,6 +70,7 @@
 <a href="https://git-scm.com"><code><img src=".img/git.svg" width="40" /></code></a>
 <a href="https://docs.gitlab.com/runner"><code><img src=".img/gitlab.svg" width="40" /></code></a>
 <a href="https://www.vim.org/"><code><img src=".img/vim.svg" width="40" /></code></a>
+<a href="https://www.latex-project.org/"><code><img src=".img/latex.svg" width="40" /></code></a>
 <!--<a href="https://www.postman.com/"><code><img src=".img/postman.svg" width="40" /></code></a>-->
 
 ## ✨Contacto📫✨
